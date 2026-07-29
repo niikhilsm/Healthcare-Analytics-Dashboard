@@ -199,9 +199,6 @@ Potential enhancements include:
 
 ---
 
-# 👨‍💻 Author
-
-**Nikhil Pratap Singh**
 
 
 
