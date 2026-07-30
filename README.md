@@ -88,44 +88,6 @@ The project demonstrates practical use of:
 
 ---
 
-# 🔄 Project Workflow
-
-```text
-Download Dataset
-        │
-        ▼
-Import Dataset into MySQL
-        │
-        ▼
-Explore Dataset Structure
-        │
-        ▼
-Business Requirement Analysis
-        │
-        ▼
-SQL Data Analysis
-        │
-        ├── Gender Analysis
-        ├── Ethnicity Analysis
-        ├── Monthly Diagnosis Trends
-        ├── Obsession Type Analysis
-        └── Compulsion Type Analysis
-        │
-        ▼
-Export Query Results
-        │
-        ▼
-Power BI Dashboard Development
-        │
-        ▼
-Excel Dashboard Development
-        │
-        ▼
-Business Insights
-```
-
----
-
 # 📈 Dashboard
 
 The dashboard includes the following visualizations:
